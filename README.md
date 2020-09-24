@@ -1,1 +1,0 @@
-# mychalgm.github.io
