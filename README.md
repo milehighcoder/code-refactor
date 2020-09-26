@@ -26,5 +26,5 @@ https://mychalgm.github.io/homework-code-refactor/
 
 ## Screenshot
 
-![alt.text](application-screenshot.png "Screenshot)
+![alt.text](assets/images/application-screenshot.png "Screenshot)
 
