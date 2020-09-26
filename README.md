@@ -26,5 +26,5 @@ https://mychalgm.github.io/homework-code-refactor/
 
 ## Screenshot
 
-!assets/images/application-screenshot.png
+!application-screenshot.png
 
