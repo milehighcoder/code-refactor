@@ -11,7 +11,7 @@ The primary goal of this project was to improve the accessibility of the applica
 ## Challenge #1 - Updated HTML/CSS with Semantic Elements
 The first challenge presented to me was replacing the <div> elements with more legibal 'semantic' elements for accessibility purposes. This took me some time to figure out as this was my first experience performing this task. One of the biggest things I learned through this challenge was that there are more ways than one to write certain lines of code.
 
-## Challenge #2 - Consolidated CSS Classes
+## Challenge #2 - Consolidated CSS Classes
 
 There were many repeat classes that took up unnecessary space on the original stylesheet so I consolidated the stylesheet from around 200 lines to 137 lines (with comments). This was the BIGGEST challenge for me on this project. I got lost several times going back and forth between the CSS and HTML trying to figure out which classes were being tagged where in the HTML. Though this was very time consuming, it really helped me to understand, in great detail, how HTML and CSS stylesheets work together more clearly.
 
@@ -26,5 +26,5 @@ https://mychalgm.github.io/homework-code-refactor/
 
 ## Screenshot
 
-
+!assets/images/application-screenshot.png
 
