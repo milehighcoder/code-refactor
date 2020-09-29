@@ -19,7 +19,7 @@ This was a fun project all around as It challenged my problem solving and googli
 
 ## URL to Deployed Application
 
-https://mychalgm.github.io/homework-code-refactor/
+https://mychalgm.github.io/code-refactor/
 
 
 ## Screenshot
