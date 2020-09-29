@@ -47,11 +47,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-    margin-bottom: 32px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -59,43 +54,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/* consolidated lines 89 to 102 to this class */
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* consolidated lines 104 to 117 here */
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* consolidated lines 119 to 135 here */
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .content {
@@ -123,6 +81,48 @@ section img {
 .sections h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+/* consolidated lines 89 to 102 to this class */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* consolidated lines 104 to 117 here */
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* consolidated lines 119 to 135 here */
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 footer {
